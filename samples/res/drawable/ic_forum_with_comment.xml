@@ -12,6 +12,7 @@
     <path
         android:name="bezier2"
         android:pathData="M 34.5,15.5 C 41.25,25.5 34.5,26.5 34.5,26.5 "
+        android:fillColor="#121439"
         android:strokeColor="#000000"
         android:strokeWidth="1" />
     
