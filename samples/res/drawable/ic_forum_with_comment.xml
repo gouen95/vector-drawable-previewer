@@ -8,6 +8,5 @@
     <!-- Star -->
     <path
         android:pathData="M 27.25,23.75 L 28.31,25.29 L 30.1,25.82 L 28.96,27.31 L 29.01,29.18 L 27.25,28.55 L 25.49,29.18 L 25.54,27.31 L 24.4,25.82 L 26.19,25.29 L 27.25,23.75 Z"
-        android:strokeColor="#404040"
-        android:strokeWidth="1" />
+        android:fillColor="#121439" />
 </vector>
