@@ -7,6 +7,23 @@
     android:viewportWidth="200"
     android:viewportHeight="200">
     
+    
+    <!-- Bezier 2 -->
+    <path
+        android:name="bezier2"
+        android:pathData="M 34.5,15.5 C 41.25,25.5 34.5,26.5 34.5,26.5 "
+        android:fillColor="#121439"
+        android:strokeColor="#000000"
+        android:strokeWidth="1" />
+    
+    <!-- Rectangle 2 -->
+    <path
+        android:name="rectangle2"
+        android:pathData="M 20,19 L 34.5,19 L 34.5,16 L 20,16 L 20,19 Z"
+        android:fillColor="#121439"
+        android:strokeColor="#404040"
+        android:strokeWidth="1" />
+    
     <!-- Star -->
     <path
         android:name="star"
