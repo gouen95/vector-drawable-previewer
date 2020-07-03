@@ -2,10 +2,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:name="canvas1"
-    android:width="58dp"
-    android:height="44dp"
-    android:viewportWidth="58"
-    android:viewportHeight="44">
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
     
     <!-- Star -->
     <path
